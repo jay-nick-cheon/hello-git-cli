@@ -1,3 +1,8 @@
 hello git
 second
+<<<<<<< HEAD
 some hot fix
+=======
+third - my branch
+fourth - my branch
+>>>>>>> d2ce4bdb9dcd72ddc38e7cc1650861c3da863b4c
